@@ -1,0 +1,8 @@
+    Escribir "Introduce un número: "
+    Leer numero
+    
+    Para i = 1 hasta 10 hacer
+        resultado = numero * i
+        Escribir numero, " x ", i, " = ", resultado
+    FinPara
+FinAlgoritmo
